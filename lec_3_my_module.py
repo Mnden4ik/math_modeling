@@ -1,7 +1,7 @@
 # Атрибуты модуля
 a = 3
 b = 'Good'
-с = ['Bad', 4, 'Petya molodec']
+c = ['Bad', 4, 'Petya molodec']
 
 earth_mass = 5.97237 * 10 ** 30
 sigma_steff_bolc = 5.67036713 * 10 ** (-8)
